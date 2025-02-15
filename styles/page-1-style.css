@@ -204,7 +204,7 @@ footer {
 
 .logo {
     margin-top: 11px;
-    padding-left: 38px;
+    padding-left: 28px;
     width: 60px;
     height: 25px;
 }
@@ -828,13 +828,12 @@ footer {
     
     .logo {
         margin-top: 11px;
-        padding-left: 88px;
+        padding-left: 28px;
         width: 60px;
         height: 25px;
     }
     
     .favorite-head {
-    
         margin-top: 12px;
         width: 24px;
         height: 24px;
@@ -1244,7 +1243,7 @@ footer {
         font-size: 18px;
         font-family: Jun;
         width: 270px;
-        margin: 3px 0px 0px 15px;
+        margin: 0px 0px 0px 15px;
     }
     
 }
@@ -1455,7 +1454,7 @@ footer {
     
     .logo {
         margin-top: 11px;
-        padding-left: 88px;
+        padding-left: 28px;
         width: 60px;
         height: 25px;
     }
