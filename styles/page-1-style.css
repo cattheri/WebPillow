@@ -566,7 +566,7 @@ footer {
     margin: 0px 0px 21px 0px;
     border: 1px solid #e5e5e5;
     border-radius: 20px;
-    width: 216px;
+    width: 256px;
     height: 66px;
     box-shadow: -4px 4px 4px 0 #e5e5e5;
     background: #fff;
@@ -575,7 +575,7 @@ footer {
     margin: 0px 0px 0px 0px;
     border: 1px solid #e5e5e5;
     border-radius: 20px;
-    width: 216px;
+    width: 256px;
     height: 66px;
     box-shadow: -4px 4px 4px 0 #e5e5e5;
     background: #fff;
@@ -605,20 +605,20 @@ footer {
 .nickname-reviews {
     height: 10px;
     font-family: Nuqun;
-    font-size: 14px;
+    font-size: 15px;
     margin: 6px 0px 0px 15px;
 }
 
 .nickname-reviews2 {
     color: rgba(0, 0, 0, 0.7);
     font-family: Nuqun;
-    font-size: 12px;
+    font-size: 13px;
     margin: -4px 0px 0px 15px;
 }
 .text-reviews {
-    font-size: 13px;
+    font-size: 14px;
     font-family: Jun;
-    width: 175px;
+    width: 215px;
     margin: 0px 0px 0px 15px;
 }
 @media screen and (min-width: 768px) and (max-width:1023px) {
